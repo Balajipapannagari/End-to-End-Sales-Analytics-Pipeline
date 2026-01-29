@@ -1,0 +1,7 @@
+order_id,order_date,customer_id,product,quantity,price
+1001,1/5/2024,C001,Laptop,1,55000
+1002,1/7/2024,C002,Mouse,2,500
+1003,1/10/2024,C001,Keyboard,1,1500
+1004,C003,Monitor,1,12000,
+1005,1/15/2024,C004,Laptop,1,
+1006,1/20/2024,C002,Mouse,3,500
